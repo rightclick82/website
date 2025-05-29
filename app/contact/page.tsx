@@ -33,10 +33,10 @@ export default function ContactPage() {
           <div className="flex items-start">
             <span className="w-40 font-semibold">Address:</span>
             <div>
-              A-132, First Floor, Gali No. 2,<br />
-              Chandu Nagar, Karawal Nagar,<br />
+              Ground Floor, B-47, Chandu Nagar,<br />
+              Gali No. 2, Karawal Nagar,<br />
               New Delhi, North East Delhi,<br />
-              Delhi – 110094
+              Delhi, 110094
             </div>
           </div>
         </div>
